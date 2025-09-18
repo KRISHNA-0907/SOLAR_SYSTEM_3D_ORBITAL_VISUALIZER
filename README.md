@@ -30,3 +30,10 @@ This project requires the following Python libraries:
 Install them using pip:
 ```bash
 pip install numpy matplotlib
+git clone https://github.com/your-username/solar-system-3d.git
+cd solar-system-3d
+python solar_system_visualizer.py
+solar-system-3d/
+├── solar_system_visualizer.py  # Main Python script
+├── requirements.txt            # List of dependencies (optional)
+└── README.md                   # This file
